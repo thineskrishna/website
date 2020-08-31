@@ -8,6 +8,7 @@
 <url> <loc>https://www.example.com/about/patient-public-involement/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/about/sponsors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Achievements/achievements-overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Achievements/how-to/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Achievements/presentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Achievements/prizes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Achievements/publication/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
