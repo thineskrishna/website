@@ -30,6 +30,7 @@
 <url> <loc>https://www.example.com/Studies/Mimic/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Studies/Resect/study-resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/study-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Stent/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
