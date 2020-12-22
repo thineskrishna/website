@@ -15,7 +15,7 @@ setTimeout(function() {
       ['Austria', 1],
       ['Belgium', 1],
       ['Brazil', 1],
-      ['Canada', 12],
+      ['Canada', 15],
       ['Chile', 8],
       ['France', 3],
       ['Germany', 2],
@@ -38,7 +38,7 @@ setTimeout(function() {
       ['Switzerland', 1],
       ['Taiwan', 3],
       ['Turkey', 11],
-      ['GB', 141],
+      ['GB', 149],
       ['United States', 30],
     ]);
 
