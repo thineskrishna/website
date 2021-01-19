@@ -22,6 +22,7 @@
 <url> <loc>https://www.example.com/Opportunities/Trainee_Corner/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Detort/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Fixit/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Studies/Identify/Admin/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Identify/Link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Identify/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Identify/sites/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
