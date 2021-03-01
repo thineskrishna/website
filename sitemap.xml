@@ -14,11 +14,11 @@
 <url> <loc>https://www.example.com/about/history/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/about/patient-public-involement/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/about/sponsors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Opportunities/BJUI-Podcast/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Opportunities/Ads/NeuroSafe/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Opportunities/Collaborate-with-us/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.example.com/Opportunities/BJUI-Podcast/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.example.com/Opportunities/Education/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Opportunities/Legends_of_Urology/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Opportunities/Education/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Opportunities/Trainee_Corner/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/COVIDSurg/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Detort/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -32,6 +32,7 @@
 <url> <loc>https://www.example.com/Studies/Mimic/Link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Mimic/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Mimic/collaborators/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Studies/Stent/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Cases/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/FAQs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Formal_Registration/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -40,6 +41,5 @@
 <url> <loc>https://www.example.com/Studies/Resect/REDCAP-Instructions/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/study-resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/study-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.example.com/Studies/Stent/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Calculator/case-counter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
