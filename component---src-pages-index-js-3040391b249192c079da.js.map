@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["IndexPage"],"mappings":"4FAAA,4CAMeA,UAFG,kBAAM,kBAAC,IAAD","file":"component---src-pages-index-js-3040391b249192c079da.js","sourcesContent":["import React from 'react';\n\nimport Layout from '../components/layout';\n\nconst IndexPage = () => <Layout />;\n\nexport default IndexPage;\n"],"sourceRoot":""}
