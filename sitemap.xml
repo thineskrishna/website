@@ -45,5 +45,6 @@
 <url> <loc>https://www.example.com/Studies/Resect/study-team/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/webinar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Stent/Overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.example.com/Studies/Identify/Calculator/input/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.example.com/Studies/Resect/Calculator/case-counter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
