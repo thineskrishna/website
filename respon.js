@@ -23,6 +23,7 @@ setTimeout(function() {
         ['China', 3],
       ['Czech Republic', 1],
       ['Egypt', 18],
+      ['Estonia', 4],
       ['France', 5],
       ['Germany', 3],
       ['Greece', 3],
